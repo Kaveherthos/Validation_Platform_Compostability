@@ -1,0 +1,165 @@
+/* Sidebar Them */
+
+[data-testid=stSidebar]{
+    /* background-image:url("https://drive.google.com/uc?export=view&id=1Pi_OoOlEPRth-ZML4hIOy23OjX51YI7Q"); */
+    background-image:url("https://lh3.googleusercontent.com/drive-viewer/AEYmBYS826f_3mXh31pylfWV-sMgSNz9kzbooq7rBZgneDJoH3wb0CDFFs9uNW80FQu9_EcMo8c-1R78ri9nofrn8DWTgvDY=s2560");
+
+    background-repeat: no-repeat;
+    background-color: #373A36;
+    color:#F4F0E8 ;
+    align-items: center;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 0%;
+    font-weight: lighter;
+    background-size: 200px 50px;
+    position: relative;
+    background-position: 60px 60px;
+
+}
+section[data-testid="stSidebar"] div.stButton button {
+    background-color: #F4F0E8;
+    color: #373A36;
+    
+    width: 150px;
+}
+
+/* [data-testid=stSidebar] {
+    background-color: #373A36;
+    color:#F4F0E8 ;
+    width: 300px;
+    align-items: center;
+
+    
+            } */
+
+
+div[data-testid="stExpander"] div[role="button"] p {
+    font-size: 25px;
+    background-color: #F4F0E8;
+    border-color: #F4F0E8;
+    align-items: center;
+    text-align: center;
+}
+div[class*="stTextArea"] label p {
+    font-size: 25px;
+    color: Charcoal;
+    }
+
+div[class*="stTextInput"] label p {
+    font-size: 25px;
+    color: Charcoal;
+    }
+
+div[class*="stNumberInput"] label p {
+    font-size: 25px;
+    }
+
+/* div.stButton > button:first-child { 
+    color: #373A36;
+    border-radius: 10px;
+    background-color: #F4F0E8;
+    font-size: 25px;
+    } */
+
+div.st-emotion-cache-1naocv2 p {
+        word-break: break-word;
+        margin-bottom: 0px;
+        font-size: 20px;
+        color: #373A36;
+        border-radius: 10px;
+    }
+div.st-emotion-cache-1q1kznx p {
+    font-size: 25px;
+}
+
+div.st-emotion-cache-sy3zga {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    /* color: aqua; */
+    /* display: inline; */
+    /* font-size: 25px; */
+
+}
+
+p{
+    word-break: break-word;
+    margin-bottom: 0px;
+    font-size: 20px;
+    color: Charcoal;
+    border-radius: 10px;
+
+}
+
+
+div.st-fq {
+    flex: inherit;
+    font-size: 25px;
+}
+
+div.stButton > button:first-child {
+    color: #373A36;
+    border-radius: 10px;
+    background-color: #F4F0E8;
+    /* #height: auto; */
+    /* padding-top: 10px !important;
+    padding-bottom: 10px !important; */
+    /* height: 30px; */
+    /* width: 100;
+    height: 10; */
+}
+
+
+.big-font {
+        font-size:30px !important;
+        color: #F4F0E8;
+        align-items: center;
+        }
+
+.big-font-table {
+    font-size:30px !important;
+    }
+
+.st-emotion-cache-1v79p4f.e1f1d6gn1 {
+    position: sticky;
+    /* background-color: aqua; */
+
+}
+div[data-testid="stMarkdownContainer"].st-emotion-cache-1q1kznx.e1nzilvr5{
+    text-align: center;
+}
+
+
+.stSelectbox [data-baseweb="select"] div[aria-selected="true"] {
+                    white-space: normal; 
+                    overflow-wrap: anywhere;
+                 }
+.stMultiSelect [data-baseweb="tag"] {
+    height: fit-content;font-size:40px;
+}
+.stMultiSelect [data-baseweb="tag"] span[title] {
+    white-space: normal; max-width: 100%; overflow-wrap: anywhere; font-size:20px;
+}
+
+
+div.st-emotion-cache-sy3zga {
+    display: flex;
+    font-size: 20px; 
+} 
+
+
+div[data-testid="stMarkdownContainer"].st-emotion-cache-1q1kznx.e1nzilvr5{
+    text-align: center;
+}
+
+.st-ds.st-di.st-ce.st-dt.st-du.st-dv{
+    font-size: 20px;
+    color: Charcoal;
+
+}
+
+.st-ck.st-b3.st-ce.st-b8.st-cx.st-cy.st-cz.st-bj.st-d0.st-d1.st-d2.st-d3.st-e7.st-b1.st-d5.st-au.st-ax.st-av.st-aw.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-d6.st-d7.st-d8.st-d9.st-da.st-ea.st-eb{
+    font-size:20px;
+    color:red;
+}
